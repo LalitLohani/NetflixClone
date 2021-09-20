@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img title="Netflix" src="/ReadmeImages/5.png" alt="NETFLIX Logo" width="400" />
+  <img title="Netflix" src="5.png" alt="NETFLIX Logo" width="400" />
   <br>
   Netflix Clone
 </h1>
@@ -14,7 +14,7 @@
 
 <div align="center"><a name="menu"></a>
 
-![ScreenShot](/ReadmeImages/5.jpg)
+![ScreenShot](5.jpg)
 </div>
 
 The Home Page consists of 5 main sections:
@@ -48,7 +48,7 @@ It contains useful links users may need it.
  
  <div align="center"><a name="menu"></a>
 
-![ScreenShot](/ReadmeImages/11.jpg)
+![ScreenShot](11.jpg)
 </div>
 
 The Sign-in Page consists of 3 main sections:
@@ -77,7 +77,7 @@ It contains useful links users may need it.
  
 <div align="center"><a name="menu"></a>
 
-![ScreenShot](/ReadmeImages/13.jpg)</div>
+![ScreenShot](13.jpg)</div>
 
 The Sign-up Page consists of 3 main sections:
 
@@ -105,14 +105,13 @@ It contains useful links users may need it.
 
  # Browse Page
 
-<<!-- div align="center"><a name="menu"></a>
+ div align="center"><a name="menu"></a>
 
-![ScreenShot](/ReadmeImages/1.jpg)
-![ScreenShot](/ReadmeImages/2.jpg)
-![ScreenShot](/ReadmeImages/3.jpg)
-![ScreenShot](/ReadmeImages/4.jpg)
+![ScreenShot](1.jpg)
+![ScreenShot](2.jpg)
+![ScreenShot](3.jpg)
+![ScreenShot](4.jpg)
 </div>
- -->
 The Browse Page consists of 5 main sections:
 
 ***1) Header, which includes:***
@@ -145,12 +144,11 @@ The video player should show the video of this movie which you clicked on it, bu
 
 You can close the video player anytime by clicking anywhere else on the screen.
 
-<<!-- div align="center"><a name="menu"></a>
+ div align="center"><a name="menu"></a>
 
-![ScreenShot](/ReadmeImages/14.jpg)
+![ScreenShot](14.jpg)
 
 </div>
- -->
 ***6) Footer:***
 It contains useful links users may need it.
 
