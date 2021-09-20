@@ -6,7 +6,7 @@
 </h1>
 
 <p><font size="3">
-  This is a clone of Netflix website built using <strong><em>HTML,CSS, Jsvascript</em></strong> as a Front-end. It contains the home page, sign-in page, sign-up page, browse page, and movie player.
+  This is a clone of Netflix website built using <strong><em>HTML,CSS and Javascript</em></strong> as a Front-end. It contains the home page, sign-in page, sign-up page, browse page, and movie player.
   <br>
 </p>
 
